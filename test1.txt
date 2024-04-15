@@ -1,0 +1,13 @@
+int main() {
+	double var1 = 0;
+	float var2 = 0.2;
+	int var3 = 3;
+	int bracketTest = [1];
+	result = var3 -  var2 + var1 / 3 * 100;
+	if(result == 0) {
+		result = result * 2;
+	}
+	else {
+		result = result / 2;
+	}
+}
